@@ -8,3 +8,6 @@ JavaScriptによるモーションのテストです
 - もげ
 - もげ
 - ふがーー
+
+JavaScriptによるモーションのテストです
+JavaScriptによるモーションのテストです
