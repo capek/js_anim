@@ -9,7 +9,7 @@
     },
     rate = 30;
     
-  var init = function(){
+  var run = function(){
     cc.clearRect(0,0,300,300);
     
     pos.y += 10;
@@ -28,12 +28,6 @@
     return this;
   };
   
-  init();
-  
-  
-  
-  
-  
-  
+  run();
   
 })();
