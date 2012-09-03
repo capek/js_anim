@@ -1,5 +1,8 @@
 (function() {
-
+  
+  /**
+   * プロパティ
+   */
   var boxNum = 100, 
   rate = 30,
   boxes = [],
