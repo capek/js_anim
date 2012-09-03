@@ -1,7 +1,7 @@
 (function() {
   
   /**
-   * プロパティ
+   * プロパティ　
    */
   var boxNum = 100, 
   rate = 30,
@@ -60,7 +60,7 @@
   var rectsSetting = {
     
       init:function(){
-        //インスタンス？生成
+        //インスタンス生成
         for(var i=0,j=boxNum; i<j; i++){
           boxes.push(box());
         };
