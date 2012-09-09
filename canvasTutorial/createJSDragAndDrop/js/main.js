@@ -6,11 +6,11 @@ var ddexsample = {};
 
 (function(){
 
-var stageWidth = 600;
-      var stageHeight = 600;
-      var stage;
-      var shape1;
-      var canvas;
+  var stageWidth = 600;
+  var stageHeight = 600;
+  var stage;
+  var shape1;
+  var canvas;
       
   ddexsample.init = function(){
   //new Stage
